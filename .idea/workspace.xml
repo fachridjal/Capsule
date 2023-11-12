@@ -9,110 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d2ad10-22e7-4e81-9003-f033d69caefa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/checksums.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/md5-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.0/checksums/sha1-checksums.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.0/dependencies-accessors/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.0/executionHistory/executionHistory.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.0/fileChanges/last-build.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/fileHashes.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.0/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/8.0/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gradle/workspace-id.txt.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/App.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/data/data_source/DataSource.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/data/di/RepositoryModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/data/repository/QuizRepositoryImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/data/repository/TimerRepositoryImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/data/states/QuizResult.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/data/states/QuizState.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/data/states/TimeState.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/data/util/Constant.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/di/module/AppModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/di/module/DateModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/di/module/DispatcherModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/di/module/FragmentModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/di/module/InvalidStringModule.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/di/qualifier/DateFormatDayMonth.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/di/qualifier/DateNow.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/di/qualifier/InvalidImage.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/di/qualifier/NetworkDispatcher.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/di/qualifier/ThreadIO.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/di/qualifier/ThreadMain.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/di/util/ResourcesHelper.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/domain/entity/Question.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/domain/repository/QuizRepository.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/domain/repository/TimerRepository.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/domain/usecase/UseCase.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/MainActivity.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/components/CustomButtons.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/components/CustomComponents.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/dialog/InfoDialogs.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/screens/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/screens/NotesScreen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/screens/QuizScreen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/screens/ResultScreen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/screens/VideoScreen.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/theme/Color.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/theme/ColorSchemes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/theme/Shapes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/theme/Theme.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/ui/theme/Type.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/util/Aksi.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/util/DemoExtensions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/util/Safelet.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/fachridjal/viewModel/QuizViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/rubik_black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/rubik_bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/rubik_extra_bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/rubik_light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/rubik_medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/rubik_regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/font/rubik_semi_bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/raw/blood.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    <list default="true" id="a7d2ad10-22e7-4e81-9003-f033d69caefa" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -257,6 +156,14 @@
       <option name="presentableId" value="Default" />
       <updated>1699703165741</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1699759434429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699759434429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,5 +176,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
